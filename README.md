@@ -16,4 +16,6 @@ cd "path address"
 setup /configure configuration.xml
 
 
-This is a partial trial for the full activation Contact me on Github Or Email: banerjeeusnish2@gmail.com
+"This is a partial trial" 
+
+For the full activation Contact me on Github Or Email: banerjeeusnish2@gmail.com
